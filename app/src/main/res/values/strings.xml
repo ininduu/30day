@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">30 Goal of the best</string>
+
+    <string name="date1">GOAL 1</string>
+    <string name="title1">Alexis Mac Allister</string>
+    <string name="description1">Alexis Mac Allister mencetak goal kemenengan ke gawang real madrid pada lanjutan babak liga champion</string>
+
+    <string name="date2">Goal 2</string>
+    <string name="title2">Jay Idzes</string>
+    <string name="description2">Jay idzes adalah kapten dari timnas indonesia</string>
+
+    <string name="date3">Goal 3</string>
+    <string name="title3">Mikel Merino</string>
+    <string name="description3">Mikel Merino mencetak goal penentu Di EURO 2024</string>
+
+    <string name="date4">Goal 4 </string>
+    <string name="title4">Cristino Ronaldo</string>
+    <string name="description4">Dia sudah Berumur 39 tahun, dan masih memiliki jiwa muda</string>
+
+</resources>
